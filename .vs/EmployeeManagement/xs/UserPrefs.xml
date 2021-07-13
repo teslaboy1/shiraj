@@ -1,0 +1,75 @@
+﻿<Properties StartupConfiguration="{C378CE05-348B-4A7B-8774-C6C5F74A19B7}|Default">
+  <MonoDevelop.Ide.ItemProperties.EmployeeManagement PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeManagement/Migrations/20210620161343_AlterEmployeesSeedData.cs">
+    <Files>
+      <File FileName="EmployeeManagement/Controllers/AccountController.cs" Line="71" Column="1" />
+      <File FileName="EmployeeManagement/Views/Employee/Index.cshtml" />
+      <File FileName="EmployeeManagement/Views/Home/Create.cshtml" />
+      <File FileName="EmployeeManagement/Views/Home/Details.cshtml" />
+      <File FileName="EmployeeManagement/Views/Home/Edit.cshtml" />
+      <File FileName="EmployeeManagement/Views/Home/Index.cshtml" />
+      <File FileName="EmployeeManagement/Views/Home/Privacy.cshtml" />
+      <File FileName="EmployeeManagement/Views/Account/Register.cshtml" />
+      <File FileName="EmployeeManagement/ViewModel/RegisterViewModel.cs" />
+      <File FileName="EmployeeManagement/Controllers/ErrorController.cs" />
+      <File FileName="EmployeeManagement/Startup.cs" />
+      <File FileName="EmployeeManagement/Controllers/HomeController.cs" />
+      <File FileName="EmployeeManagement/Models/Employee.cs" />
+      <File FileName="EmployeeManagement/Models/AppDbContext.cs" />
+      <File FileName="EmployeeManagement/Views/Shared/_Layout.cshtml" />
+      <File FileName="EmployeeManagement/Views/_ViewImports.cshtml" />
+      <File FileName="EmployeeManagement/ViewModel/LoginViewModel.cs" />
+      <File FileName="EmployeeManagement/Views/Account/Login.cshtml" />
+      <File FileName="EmployeeManagement/nlog.config" />
+      <File FileName="EmployeeManagement/appsettings.json" />
+      <File FileName="EmployeeManagement/Program.cs" />
+      <File FileName="EmployeeManagement/Models/MockEmployeeRepository.cs" />
+      <File FileName="EmployeeManagement/Models/SQLEmployeeRepository.cs" />
+      <File FileName="EmployeeManagement/appsettings.Development.json" />
+      <File FileName="EmployeeManagement/Models/EmployeeCreateViewModel.cs" />
+      <File FileName="EmployeeManagement/Models/ErrorViewModel.cs" />
+      <File FileName="EmployeeManagement/Models/IEmployeeRepository.cs" />
+      <File FileName="EmployeeManagement/Models/Dept.cs" />
+      <File FileName="EmployeeManagement/Models/ModelBuilerExtentions.cs" />
+      <File FileName="EmployeeManagement/ViewModel/HomeDetailsViewModel.cs" />
+      <File FileName="EmployeeManagement/ViewModel/EmployeeEditViewModel.cs" />
+      <File FileName="EmployeeManagement/Migrations/20210620142554_InitialCreate.cs" />
+      <File FileName="EmployeeManagement/Migrations/20210620160052_SeedEmployeesTable.cs" />
+      <File FileName="EmployeeManagement/Migrations/20210620161343_AlterEmployeesSeedData.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeManagement" expanded="True">
+            <Node name="EmployeeManagement" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20210620161343_AlterEmployeesSeedData.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Employee" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/sharadbaidya/Projects/EmployeeManagement/EmployeeManagement/Models/SQLEmployeeRepository.cs" relfile="EmployeeManagement/Models/SQLEmployeeRepository.cs" line="33" column="1" />
+      <Breakpoint enabled="false" file="/Users/sharadbaidya/Projects/EmployeeManagement/EmployeeManagement/Models/AppDbContext.cs" relfile="EmployeeManagement/Models/AppDbContext.cs" line="8" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
